@@ -11025,6 +11025,8 @@ p.lead {
     text-transform: uppercase;
     font-weight: 500;
     font-size: 1rem;
+    color: #062c33;
+    font-weight: bold;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
